@@ -1,0 +1,2 @@
+[functions.compute-hash]
+verify_jwt = false

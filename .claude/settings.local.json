@@ -5,7 +5,20 @@
       "Bash(npx create-next-app@latest *)",
       "Bash(mv CLAUDE.md /tmp/CLAUDE_fairdata_backup.md)",
       "Bash(rm -f package.json package-lock.json)",
-      "Bash(rm -rf node_modules)"
+      "Bash(rm -rf node_modules)",
+      "Bash(mv /tmp/CLAUDE_fairdata_backup.md /Users/baejieon/fairdata/CLAUDE.md)",
+      "Bash(npm install *)",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "Bash(openssl rand *)",
+      "Bash(brew install *)",
+      "Bash(supabase *)",
+      "Bash(stripe listen *)",
+      "Bash(xargs sed *)",
+      "Bash(curl *)",
+      "Bash(git clone *)",
+      "Bash(git -C /Users/baejieon/fairdata status)",
+      "Bash(git *)"
     ]
   }
 }
